@@ -1,19 +1,11 @@
 ---
 layout: default
 bodyClass: page-home
-title: Unredacted Word
+title: Unredacted Word 86
 displayTitle: " "
 excerpt: > 
-  Unredacted Word: publisher of words, code & data. Society of the Spectacle,
-  forthcoming in 2020.
+  Unredacted Word 86: high quality motorsports parts for the ZC6/ZN6 chassis.
 ---
-
-<div class="aesthetics fullbleed">
-  <p class="centered">
-    <span class="cursor">█</span>
-    Unredacted <s>Word</s>: publisher of words, code &amp; data.
-  </p>
-</div>
 
 
 {% for item in site.data.catalog %}
@@ -24,10 +16,3 @@ excerpt: >
   {% include product-table.html sku=sku showFeatures="False" %}
 {% endfor %}
 
-
-## Sales
-
-We are able to send our goods directly to you, as ebooks, web books, and print
-copies. We very much hope that you will buy directly from us whenever possible, and
-we will do our very best to make sure that you receive them in the way that you
-need, as quickly as possible.

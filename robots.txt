@@ -1,2 +1,2 @@
 # Hello friends.
-Sitemap: https://unredacted-word.pub/sitemap.xml
+Sitemap: https://unredacted-word.pub/86/sitemap.xml
