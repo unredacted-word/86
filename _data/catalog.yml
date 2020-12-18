@@ -1,77 +1,38 @@
-UW000000:
-  name: "Logo Sticker"
-  sku: UW000000
+UW600001:
+  name: "Muteki SR48 Lug Nuts"
+  sku: UW600000
   external_sku: sku_GFlC0zzBrcHvid
-  date: 2019-11-26 00:00:00
+  date: 2020-12-18 00:00:00
   quantity: 1
-  price: "$0.50"
-  url: /catalog/uw000000-logo-sticker
+  price: "$55.00"
+  url: /catalog/uw600001-muteki-sr48-lug-nuts
   image:
-    src: /static/catalog/uw000000/logo-sticker-610x376.png
-    alt: Sticker photo
-  image_assortment:
-    - src: /static/catalog/uw000000/logo-sticker-610x376.png
-      alt: Sticker photo
-    - src: /static/catalog/uw000000/logo-sticker-610x376.png
-      alt: Sticker photo
-    - src: /static/catalog/uw000000/logo-sticker-610x376.png
-      alt: Sticker photo
-    - src: /static/catalog/uw000000/logo-sticker-610x376.png
-      alt: Sticker photo
+    src: /static/catalog/uw600001/01.jpg
+    alt: Muteki SR48
   description: |
-    Unredacted Word logo, die cut stickers. Collect emʼ, trade emʼ
-    with your friends, put them in mysterious places.
+    Muteki 32906B SR Series Black 12mm x 1.5mm SR48 Open End Lug Nut Set, (Set
+    of 20)
   features:
-    - key: Filename
-      value: logo.svg
-    - key: Artist
-      value: "0xADADA"
-    - key: Format
-      value: Adhesive on printed paper
-    - key: Application
-      value: Google Drawings, VIM, SVGOMG
-    - key: Size
-      value: 2" x 1.18
-    - key: Edition
-      value: 1&ordm; / 50 copies
-    - key: Copyright
-      value: © 2018-2019 Unredacted Word, LLC
-
-UWXXXXXX:
-  name: "The Society of the Spectacle"
-  sku: UWXXXXXX
-  url: /
-  external_sku: TODO
-  quantity: 1
-  description: |
-    By Guy Debord.
-    <p>
-      In this book, Debord describes the way we live in the contemporary
-      era. The power in these ideas lies in their ability to question, identify,
-      and name the common assumptions of our period, and ultimately develops the
-      concept of The Spectacle, describing the “gaze” of contemporary culture.
-      This book continues to influence a wide range of progressive philosophical
-      and political movements, most notably anti-capitalism, culture jamming,
-      and anarchism.
-    </p>
-    <div style="margin:4rem 0">
-      <a class="book-container" href="https://unredacted-word.pub">
-        <div class="book">
-          <img alt="The Society of the Spectacle by Guy Debord" src="/static/catalog/uw000001/cover-3d-458x539.png" />
-        </div>
-      </a>
-    </div>
-    <p>
-      A new translation by 0xADADA.
-    </p>
-  features:
-    - key: Title (Original)
-      value: La Societé du Spectacle
-    - key: Author
-      value: Guy Debord
-    - key: Translator
-      value: "0xADADA"
-    - key: Release
-      value: ~2020
-
+    - key: Manufacturer
+      value: Muteki
+    - key: Weight
+      value: 2.5lbs
+    - key: Part No
+      value: 32905B
+    - key: Thread
+      value: 12x1.25
+    - key: Quantity
+      value: 20
+    - key: Color
+      value: Black
+    - key: Length
+      value: 48mm
+    - key: Socket size
+      value: 17mm
+    - key: Lug type
+      value: Open ended
+    - key: Seat taper
+      value: Knurled 60° seat
+    - key: Material
+      value: Steel (alloy, Chrome vanadium 50BV30)
 

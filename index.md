@@ -2,7 +2,7 @@
 layout: default
 bodyClass: page-home
 title: Unredacted Word 86
-displayTitle: " "
+displayTitle: "Unredacted Word 86: high quality motorsports parts for the ZC6/ZN6 chassis."
 excerpt: > 
   Unredacted Word 86: high quality motorsports parts for the ZC6/ZN6 chassis.
 ---
