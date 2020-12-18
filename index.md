@@ -1,10 +1,10 @@
 ---
 layout: default
 bodyClass: page-home
-title: Unredacted Word 86
-displayTitle: "Unredacted Word 86: high quality motorsports parts for the ZC6/ZN6 chassis."
+title: ZC6 / ZN6 Motorsports, by Unredacted Word
+displayTitle: " "
 excerpt: > 
-  Unredacted Word 86: high quality motorsports parts for the ZC6/ZN6 chassis.
+  High quality motorsports parts for the ZC6/ZN6 chassis.
 ---
 
 

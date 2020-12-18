@@ -137,36 +137,6 @@
   color: var(--light-text-color);
 }
 
-.sticker-assortment {
-  display: block;
-  position: relative;
-  margin: 1rem;
-  padding: 1rem;
-}
-.sticker-assortment img {
-  position: absolute;
-  width: 100%;
-  max-width: 305px;
-}
-.sticker-assortment img:first-child {
-  transform: rotate(-12deg);
-}
-.sticker-assortment img:nth-child(2){
-  left: 2pt;
-  top: 6pt;
-  transform: rotate(5deg);
-}
-.sticker-assortment img:nth-child(3){
-  left: 3pt;
-  top: 3pt;
-  transform: rotate(4deg);
-}
-.sticker-assortment img:nth-child(4){
-  left: 0;
-  top: 0;
-  position: relative;
-}
-
 .titlecard {
   font-weight: 600;
   font-size: 7em;
@@ -199,7 +169,7 @@
 .blocktable {
   font-size: 0.75rem;
   width: 100%;
-  border: 2pt solid var(--primary-text-color);
+  border: 2pt solid transparent;
   border-collapse: collapse;
   table-layout: fixed;
 }
@@ -215,7 +185,7 @@
 .blocktable td,
 .blocktable th {
   padding: 1rem;
-  border: 2pt solid var(--primary-text-color);
+  border: 2pt solid transparent;
   vertical-align: top;
   text-overflow: ellipsis;
   overflow: hidden;
@@ -246,9 +216,6 @@
   font-size: 1rem;
 }
 
-.page-home .site-header,
 .page-home .template-content .entry-title {
-  display: none;
 }
-
 

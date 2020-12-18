@@ -1,7 +1,7 @@
 UW600001:
   name: "Muteki SR48 Lug Nuts"
-  sku: UW600000
-  external_sku: sku_GFlC0zzBrcHvid
+  sku: UW600001
+  external_sku: sku_asdf
   date: 2020-12-18 00:00:00
   quantity: 1
   price: "$55.00"
@@ -10,8 +10,8 @@ UW600001:
     src: /static/catalog/uw600001/01.jpg
     alt: Muteki SR48
   description: |
-    Muteki 32906B SR Series Black 12mm x 1.5mm SR48 Open End Lug Nut Set, (Set
-    of 20)
+    Strong lugs that hold up to regular track day abuse, withstand multiple
+    heat cycles, and look great. They're affordable, so no fuss.
   features:
     - key: Manufacturer
       value: Muteki

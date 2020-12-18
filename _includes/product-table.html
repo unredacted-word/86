@@ -12,6 +12,11 @@
         </td>
       </tr>
       <tr>
+        <td colspan="2">
+          <img src="{{ product.image.src }}" alt="{{ product.image.alt }}">
+        </td>
+      </tr>
+      <tr>
         <th scope="row">SKU</th>
         <td>
           {{ product.sku }}
@@ -37,33 +42,6 @@
           {{ product.description }}
         </td>
       </tr>
-      <tr>
-        <th scope="row">Date Added</th>
-        <td>
-          {{ product.date | date: "%B %-d, %Y" | default: "Forthcoming" }}
-        </td>
-      </tr>
-
-      {% if product.image_assortment %}
-        <tr>
-          <th scope="row">Image</th>
-          <td>
-            <div class="sticker-assortment">
-              {% for image in product.image_assortment %}
-                <img src="{{ image.src }}" alt="{{ image.alt }}">
-              {% endfor %}
-            </div>
-          </td>
-        </tr>
-      {% elsif product.image %}
-        <tr>
-          <th scope="row">Image</th>
-          <td>
-            <img src="{{ product.image.src }}" alt="{{ product.image.alt }}">
-            features: {{ include.showFeatures }}.
-          </td>
-        </tr>
-      {% endif %}
 
       {% if include.showFeatures == "True" %}
         {% if product.features %}
