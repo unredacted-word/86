@@ -207,6 +207,10 @@
   border-radius: 0.25rem 0 0 0.25rem;
   font-size: 1rem
 }
+.buy-now:disabled {
+  cursor: default;
+  background-color: rgba(239, 239, 239, 0.3);
+}
 
 .buy-quantity {
   width: 4rem;

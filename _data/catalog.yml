@@ -5,6 +5,7 @@ UW600001:
   date: 2020-12-18 00:00:00
   quantity: 1
   price: "$55.00"
+  sold_out: "True"
   url: /86/catalog/uw600001-muteki-sr48-lug-nuts
   image:
     src: /86/static/catalog/uw600001/01.jpg

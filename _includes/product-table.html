@@ -31,12 +31,6 @@
       </tr>
       {% endif %}
       <tr>
-        <th scope="row">URL</th>
-        <td>
-          <a href="{{ product.url }}">{{ product.url }}</a>
-        </td>
-      </tr>
-      <tr>
         <th scope="row">Description</th>
         <td>
           {{ product.description }}
@@ -62,7 +56,7 @@
       <tr>
         <th scope="row">Buy</th>
         <td>
-          {% include buy-now.html sku=product.external_sku price=product.price quantity=product.quantity %}
+          {% include buy-now.html sku=product.external_sku price=product.price quantity=product.quantity sold_out=product.sold_out %}
         </td>
       </tr>
       {% endif %}

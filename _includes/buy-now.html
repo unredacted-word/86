@@ -4,8 +4,13 @@
     data-sku="{{ include.sku }}"
     data-quantity="{{ include.quantity | default: "1" }}"
     data-price="{{ include.price }}"
+    {% if include.sold_out == "True" %}
+      disabled
+    {% endif %}
     role="link">
-    Buy
+    {% if include.sold_out == "True" %}
+      Sold Out 😢
+    {% endif %}
   </button>
   <input type="number" class="buy-quantity js-buy-quantity" min="1" max="100" value="1">
   <div class="js-stripe-errors"></div>
