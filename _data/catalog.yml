@@ -37,3 +37,53 @@ UW600001:
     - key: Material
       value: Steel (alloy, Chrome vanadium 50BV30)
 
+
+UW600002:
+  name: "Enkei RPF1 17x9J +35 5x100 Matte Black"
+  sku: UW600002
+  external_sku: sku_asdf
+  date: 2020-12-20 00:00:00
+  quantity: 1
+  price: "$280.90"
+  sold_out: "True"
+  url: /86/catalog/uw600002-enkei-rpf1-17x9J-35-matte-black-3797908035BK
+  image:
+    src: /86/static/catalog/uw600002/03.jpg
+    alt: Enkei RPF1
+  description: |
+    The RPF1 in 17x9 is the best size for track prepared 86s. The 17in size has
+    more tire size options at more affordable prices, and lighter unsprung
+    weight. The RPF1 was developed using the same technology as the Formula One race
+    wheel. Enkei’s dual open stance spoke design is used on the McLaren Honda
+    Formula One race wheel. The twin spokes achieve better stress dispersion on
+    curves, hard braking, and extreme race driving. Shaping by the MAT process
+    reduces wheel weight by 10%-15%. Formula1のフィードバック、ライトウェイト
+    スポーツホイール. McLaren F1マシン用ホイールを踏襲した2×6
+    マルチスポークデザイン. 最軽量ホイールをコンセプトに開発したモデル.
+  features:
+    - key: Manufacturer
+      value: Enkei
+    - key: Series
+      value: Racing Series
+    - key: Part No
+      value: 3797908035BK
+    - key: Color
+      value: Matte Black
+    - key: PCD
+      value: 5x100
+    - key: Width
+      value: 9J
+    - key: Diameter
+      value: 17in
+    - key: Offset
+      value: +35mm
+    - key: Weight
+      value: 15.65lbs
+    - key: Bore size
+      value: 73mm
+    - key: Material
+      value: MAT process aluminum alloy
+    - key: Valve stems
+      value: Anodized aluminum stem w/ aluminum cap
+    - key: Stickers
+      value: Enkei logo (red)
