@@ -78,7 +78,8 @@ h6 a {
 }
 
 h1, h2 {
-  font-size: 4rem;
+  font-size: 3rem;
+  word-break: break-word;
 }
 @media (min-width: 94rem) {
   h1, h2 {
