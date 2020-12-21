@@ -166,9 +166,9 @@ information:
 
 | Applied model | Description |
 | :------------ | :---------- |
-| ZN6AYE8 | Subaru BRZ, 2.0l FA20D engine, 2012 MY for US market, Limited manual |
-| ZN6EYE8 | Subaru BRZ, 2.0l FA20D engine, 2016 MY for US market, Limited, manual |
-| ZC6E2A8 | Toyota 86, 2.0l FA20D engine, 2016 MY for Japan market, FC trim, manual |
+| ZC6AYE8 | Subaru BRZ, 2.0l FA20D engine, 2012 MY for US market, Limited manual |
+| ZC6EYE8 | Subaru BRZ, 2.0l FA20D engine, 2016 MY for US market, Limited, manual |
+| ZN6E2A8 | Toyota 86, 2.0l FA20D engine, 2016 MY for Japan market, FC trim, manual |
 
 Can you find your applied model code? Are we missing your trim code? Tell us on 
 email or <a href="https://instagram.com/brz_typera">@brz_typeRA on Instagram</a>.
