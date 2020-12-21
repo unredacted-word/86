@@ -10,7 +10,10 @@ excerpt: >
 
 <img src="/86/static/subaru-brz-ZC6E.png" alt="BRZ" width="328" style="margin: 0 auto;display: block;">
 
-<h1 class="text-gradient">Products</h1>
+A very small boutique motorsports shop for ZC6 / ZN6 parts. We only
+carry those items we think are affordable, high quality, simple, and add lightness
+to your vehicle while maximizing driving delight. We believe the 86 is a _perfectly 
+balanced drivers car for those on a budget_.
 
 {% for item in site.data.catalog %}
   {% assign sku = item[1].sku %}
