@@ -6,10 +6,8 @@ metaDescription:
   "Subaru applied model codes will tell you the Subaru model, body style, engine, and more."
 metaKeywords: motorsports, automotive, cars
 metaOgType: "article"
-image: /86/static/images/2020-12-20-subaru-vin-plate-location.jpg
-image: /86/static/images/2020-12-20-subaru-vin-plate.svg
-metaImage: /86/static/images/2020-12-20-subaru-vin-plate-location.jpg
-metaImage: /86/static/images/2020-12-20-subaru-vin-plate.svg
+image: /static/images/2020-12-20-subaru-vin-plate-location.jpg
+metaImage: /static/images/2020-12-20-subaru-vin-plate-location.jpg
 author: "0xADADA"
 tags: [motorsports]
 license: cc-by-nc-sa
