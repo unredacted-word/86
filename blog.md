@@ -1,6 +1,6 @@
 ---
-title: Links
-displayTitle: " "
+title: Articles
+displayTitle: "Articles"
 ---
 
 
