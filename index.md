@@ -23,7 +23,7 @@ balanced drivers car for those on a budget_.
   {% include product-table.html sku=sku showFeatures="False" %}
 {% endfor %}
 
-<h1 class="text-gradient">Blog</h1>
+<h1 class="text-gradient">Articles</h1>
 
 <ol class="c-Index">
 {% for post in site.posts %}
