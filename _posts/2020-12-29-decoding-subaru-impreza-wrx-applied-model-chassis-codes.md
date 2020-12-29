@@ -11,6 +11,18 @@ metaImage: /static/images/2020-12-20-subaru-vin-plate-location.jpg
 author: "0xADADA"
 tags: [motorsports]
 license: cc-by-nc-sa
+style: |
+  @media (max-width: 720px) {
+    table {
+      font-size: 8px;
+      border-width: 1px;
+    }
+    table th,
+    table td {
+      padding: 1px;
+      border-width: 1px;
+    }
+  }
 ---
 
 
