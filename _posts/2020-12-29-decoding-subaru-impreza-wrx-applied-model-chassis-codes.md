@@ -1,7 +1,7 @@
 ---
 title: "Decoding Subaru Impreza WRX and STI Applied Model Codes"
 displayTitle: "Decoding Subaru Impreza WRX and STI Applied Model Codes"
-date: 2020-10-29 10:21:00
+date: 2020-12-29 10:21:00
 metaDescription:
   "Subaru applied model codes will tell you the Subaru model, body style, engine, and more."
 metaKeywords: motorsports, automotive, cars
