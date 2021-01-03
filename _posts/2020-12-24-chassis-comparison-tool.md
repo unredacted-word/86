@@ -126,6 +126,12 @@ style: |
     border-color: rgb(48%, 57%, 3%);
     color: rgb(48%, 57%, 3%);
   }
+  .s14 {
+    width: 1730px;
+    height: 2525px;
+    border-color: rgb(48%, 57%, 3%);
+    color: rgb(48%, 57%, 3%);
+  }
   .gd {
     width: 1730px;
     height: 2525px;
@@ -225,6 +231,7 @@ style: |
   <label for="ce">CE</label>
   <label for="gc">GC</label>
   <label for="s15">S15</label>
+  <label for="s14">S14</label>
   <label for="gd">GD</label>
   <label for="a80">A80</label>
   <label for="z34">Z34</label>
@@ -254,6 +261,7 @@ style: |
   <input id="gc" class="vehicle gc" readonly value="Subaru WRX (GC)">
   <input id="s15" class="vehicle s15" readonly value="Nissan Silvia (S15)">
   <input id="gd" class="vehicle gd" readonly value="Subaru WRX (GD)">
+  <input id="s14" class="vehicle s14" readonly value="Nissan Silvia (S14)">
   <input id="a80" class="vehicle a80" readonly value="Toyota Supra(A80)">
   <input id="z34" class="vehicle z370" readonly value="Nissan 370Z (Z34)">
   <input id="e30" class="vehicle e30" readonly value="BMW M3 (E30)">
