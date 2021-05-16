@@ -204,6 +204,12 @@ style: |
     height: 2720px;
     width: 1780px;
   }
+  .xc10 {
+    border-color: rgb(59%, 90%, 26%);
+    color: rgb(59%, 90%, 26%);
+    width: 1845px;
+    height: 2730px;
+  }
   .r35 {
     border-color: rgb(31%, 31%, 55%);
     color: rgb(31%, 31%, 55%);
@@ -244,8 +250,10 @@ style: |
   <label for="e36">E36</label>
   <label for="r33">R33</label>
   <label for="e46">E46</label>
+  <label for="xc10">XC10</label>
   <label for="r35">R35</label>
   <label for="f80">F80</label>
+
 </div>
 
 <div class="preview">
@@ -273,6 +281,7 @@ style: |
   <input id="e36" class="vehicle e36" readonly value="BMW M3 (E36)">
   <input id="r33" class="vehicle r33" readonly value="Nissan GT-R (R33)">
   <input id="e46" class="vehicle e46" readonly value="BMW M3 (E46)">
+  <input id="xc10" class="vehicle xc10" readonly value="Lexus RC (XC10)">
   <input id="r35" class="vehicle r35" readonly value="Nissan GT-R  (R35)">
   <input id="f80" class="vehicle f80" readonly value="BMW M3 (F80)">
 </div>
