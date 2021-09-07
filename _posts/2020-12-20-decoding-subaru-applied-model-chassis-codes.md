@@ -112,11 +112,11 @@ sales follow.
 
 | Code | Year/Month | Notes |
 | :--- | :--------- | :---- |
-| A | 2012/03 - 2013/09 | Kouki (2012-2015) |
+| A | 2012/03 - 2013/09 | Zenki (2012-2015) |
 | B | 2013/09 - 2014/06 | |
 | C | 2014/07 2015/01 | |
 | D | 2015/02 - 2016/07 | |
-| E | 2016/07 - 2017/03 | Zenki (2016-2020): new facelift for both BRZ & 86, more horsepower, track modes: increased throttle response, disables traction control. Marketed as the "2017 BRZ" in the US. |
+| E | 2016/07 - 2017/03 | Kouki (2016-2020): new facelift for both BRZ & 86, more horsepower, track modes: increased throttle response, disables traction control. Marketed as the "2017 BRZ" in the US. |
 | F | 2017/10 - 2018/09 | |
 | G | 2018/09 - 2019/03 | |
 | H | 2019/04 - 2020 2020 | is the final model year of the ZN6/ZC6 platform |
