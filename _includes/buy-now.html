@@ -10,6 +10,8 @@
     role="link">
     {% if include.sold_out == "True" %}
       Sold Out 😢
+    {% else %}
+      Buy
     {% endif %}
   </button>
   <input type="number" class="buy-quantity js-buy-quantity" min="1" max="100" value="1">

@@ -1,10 +1,10 @@
 ---
 layout: default
 bodyClass: page-home
-title: ZC6 / ZN6 Motorsports parts
+title: ZC6 / ZN6 Motorsports parts for Subaru BRZ Toyota 86
 displayTitle: " "
 excerpt: > 
-  High quality motorsports parts for the ZC6/ZN6 chassis, by Unredacted Word LLC
+  High quality motorsports parts for the ZC6/ZN6 chassis, by Unredacted Word
 ---
 
 
