@@ -135,8 +135,8 @@ information:
 | WGIQ38DGB | Gram Lights 57DR 17x9 +38 Gunblue |
 | WGIQ38DH | Gram Lights 57DR 17x9 +38 Semi-gloss black |
 
-This list isn't exhaustive, feel free to reach out and send me your SKUs and i'll add them
-to this list.
+This list only covers Volk Racing, and some Gram Lights, and isn't exhaustive, feel free
+to reach out and send me your SKUs and i'll add them to this list.
 
 Can you find your SKU code? Are we missing your size, offset, model or color code? Tell us on 
 email or <a href="https://instagram.com/brz_typera">@brz_typeRA on Instagram</a>.
