@@ -1,37 +1,3 @@
-UW600003:
-  name: "MOMO Model 78 Steering Wheel R1909/33L 320mm Leather"
-  sku: UW600003
-  external_sku: sku_LbqL8FhRxO3DVI
-  date: 2022-05-01 00:00:00
-  quantity: 1
-  price: "$200.00"
-  url: /86/catalog/uw600003-momo-model78-320mm-r1909-33l-leather-black
-  image:
-    src: /86/static/catalog/uw600003/00.jpg
-    alt: MOMO Model 78
-  description: |
-    The soul inspiration for the iconic MOMO Montecarlo street car steering
-    wheel is the MOMO Model 78. The timeless shape of its black anodized
-    anticorodal aluminum spokes wrapped in black leather making it one of the
-    most popular choices for GT and Sedan race cars. The MOMO Model 78 is
-    offered in a 320mm diameter with 40mm dish providing an excellent anatomic
-    grip for improved performance.
-  features:
-    - key: Manufacturer
-      value: MOMO
-    - key: Model
-      value: "R1909/33L"
-    - key: Color
-      value: Matte Black
-    - key: Diameter
-      value: 320mm
-    - key: Dish
-      value: +40mm
-    - key: Bolt Pattern
-      value: 6 x 70mm
-    - key: Hardware
-      value: 6 allen bolts
-
 UW600001:
   name: "Muteki SR48 Lug Nuts"
   sku: UW600001
